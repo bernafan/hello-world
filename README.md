@@ -1,2 +1,5 @@
 # hello-world
-another new repository
+
+hi,
+
+assim que usa essa parada.
